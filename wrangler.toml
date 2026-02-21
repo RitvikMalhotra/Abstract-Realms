@@ -6,3 +6,5 @@ pages_build_output_dir = "out"
 binding = "ABSTRACT_REALMS_DB"
 database_name = "abstract-realms-db"
 database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+# wrangler.toml
+name = 'abstract-realms1'
